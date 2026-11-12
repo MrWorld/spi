@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrWorld/spi.releases/latest"><img src="https://img.shields.io/github/v/release/MrWorld/superpower?style=for-the-badge&label=Download&color=3b8eef" alt="Latest release" /></a>
-  <a href="https://github.com/MrWorld/spi.releases"><img src="https://img.shields.io/github/downloads/MrWorld/superpower/total?style=for-the-badge&color=22c55e" alt="Downloads" /></a>
+  <a href="https://github.com/MrWorld/spi/releases/latest"><img src="https://img.shields.io/github/v/release/MrWorld/superpower?style=for-the-badge&label=Download&color=3b8eef" alt="Latest release" /></a>
+  <a href="https://github.com/MrWorld/spi/releases"><img src="https://img.shields.io/github/downloads/MrWorld/superpower/total?style=for-the-badge&color=22c55e" alt="Downloads" /></a>
   <img src="https://img.shields.io/badge/platform-macOS%20Apple%20Silicon-111827?style=for-the-badge" alt="macOS" />
   <img src="https://img.shields.io/badge/updates-automatic-6366f1?style=for-the-badge" alt="Auto updates" />
 </p>
@@ -31,7 +31,7 @@
 
 **macOS (Apple Silicon)** — get the latest build:
 
-👉 **[Download Superpower for Mac](https://github.com/MrWorld/spi.releases/latest)**
+👉 **[Download Superpower for Mac](https://github.com/MrWorld/spi/releases/latest)**
 
 1. Open the latest release
 2. Download the `.dmg`
@@ -93,7 +93,7 @@ Invite teammates by email, work in shared projects, keep ownership clear.
 
 ## 🧭 Quick start
 
-1. **Install** from [Releases](https://github.com/MrWorld/spi.releases/latest)
+1. **Install** from [Releases](https://github.com/MrWorld/spi/releases/latest)
 2. **Sign in** (passkeys / OAuth as configured)
 3. **Create or join a team project**
 4. Pick **Product** or **Coding** mode from the title bar
@@ -155,15 +155,15 @@ Yes — create a team, invite people, share projects. Start with a small pod, th
 
 | | |
 | --- | --- |
-| **Latest download** | https://github.com/MrWorld/spi.releases/latest |
-| **All releases** | https://github.com/MrWorld/spi.releases |
+| **Latest download** | https://github.com/MrWorld/spi/releases/latest |
+| **All releases** | https://github.com/MrWorld/spi/releases |
 | **Issues & ideas** | https://github.com/MrWorld/superpower/issues |
 
 ---
 
 <p align="center">
   <strong>Stop switching tools. Start shipping as a team.</strong><br />
-  <a href="https://github.com/MrWorld/spi.releases/latest">Download Superpower →</a>
+  <a href="https://github.com/MrWorld/spi/releases/latest">Download Superpower →</a>
 </p>
 
 <p align="center">
